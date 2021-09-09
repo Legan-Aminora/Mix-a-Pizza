@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "mix-a-pizza",
+    "slug": "mix-a-pizza",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "mx.com.mix_a_pizza_prueba",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDSYp59jVhgxvsYKGtUG4rC1sledY4246k"
+        }
+      },
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
+    }
+  }
+}

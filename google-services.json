@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277473586248",
+    "firebase_url": "https://mix-a-pizza.firebaseio.com",
+    "project_id": "mix-a-pizza",
+    "storage_bucket": "mix-a-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277473586248:android:23a60fc90b105d12713c7d",
+        "android_client_info": {
+          "package_name": "mx.com.mix_a_pizza_prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277473586248-54n6qapq02uj672i01hjommu3h19pnm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.mix_a_pizza_prueba",
+            "certificate_hash": "e272025ca93fbe036019e5fab61afeb1b705a5e4"
+          }
+        },
+        {
+          "client_id": "277473586248-ppui2ao7o2tbj16lqpk3lrli0k3ahjl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpCr_0zF2xHGCrXATU5bG0KstO0QtwYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277473586248-ppui2ao7o2tbj16lqpk3lrli0k3ahjl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
